@@ -1,0 +1,11 @@
+Web automation testing ini adalah suatu cara yang digunakan untuk melakukan testing terhadap web yang dibuat. Para QA memastikan apa yang dikerjakan oleh software engineer sudah benar dan tidak ada lagi miss dalam berbagai hal tersebut, makanya dibuatlah automation testing ini. Developer wajib memastikan bahwa code yang mereka buat itu sudah diuji coba berdasarkan function testing yang dibuat dan instrument testing. 
+
+Beberapa tools untuk web automation testing :
+1. Katalon
+Katalon adalah software testing yang digunakan untuk menguji kualitas dan fungsi dari aplikasi yang telah diproduksi. Diluncurkan pada September 2016, Katalon sukses menembus hingga 9% penetrasi pasar untuk UI (user interface) test automation hanya dalam jangka waktu dua tahun. Keunggulan Katalon tidak berhenti sampai di situ. Software ini memiliki user interface yang simpel dan informatif sehingga mudah digunakan QA Engineer pemula hingga yang sudah berpengalaman. Dengan tampilan yang ramah pengguna, QA Engineer dapat dengan mudah mencari fitur-fitur yang dibutuhkan dan bisa mempelajari setiap bagiannya dengan cepat.
+
+2. Cypress
+Cypress merupakan salah satu software yang digunakan untuk automation testing. Cypress memudahkan user dalam mengatur test, menulis test serta menjalankan test menjadi lebih cepat, mudah, dan handal. Berbeda dengan beberapa software automation pada umumnya seperti katalon dan silenium yang melakukan pengujian dengan cara merekam kegiatan yang dilakukan oleh user terhadap sistem, dalam membuat pengujian menggunakan Cypress ini menggunakan script kode. Script kode yang dituliskan lebih fokus pada proses menjalankan sistem mulai dari membuka halaman, melakukan pemasukan data, serta proses pengumpulan data dengan tombol, dll.
+
+Web Testing
+Uji web memungkinkan kita untuk menemukan bug pada waktu tertentu, sebelum rilis, ataupun setiap hari. Testing adalah bagian yang sangnat penting dari development software. Setiap kali ada perubahan dalam kode, sekecil apapun, bug dapat muncul di tempat lain dalam sistem. Biaya untuk memperaiki bug ini meningkat saat ditemukan dalam tahap development
