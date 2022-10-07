@@ -1,0 +1,4 @@
+starter\stepdefinitons\Users\LogoutStep.class
+starter\CucumberTestSuite.class
+starter\stepdefinitons\Users\LoginSteps.class
+starter\stepdefinitons\Users\SearchStep.class
